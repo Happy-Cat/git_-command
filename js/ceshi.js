@@ -4,5 +4,9 @@
 function add(a) {
     alert(a);
 }
+function update(d) {
+    alert(d);
+}
+update('ddddddddd');
 add("aaaaa");
 alert("bbbb");
