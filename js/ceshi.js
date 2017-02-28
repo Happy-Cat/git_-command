@@ -7,6 +7,10 @@ function add(a) {
 function remove(c) {
     alert(c);
 }
+function update(d) {
+    alert(d);
+}
+update('ddddddddd');
 add("aaaaa");
 remove("cccccc");
 alert("bbbb");
