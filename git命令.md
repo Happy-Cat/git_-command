@@ -1,3 +1,5 @@
+### touch  创建文件（.gitignore /git过滤多余文件）
+### mkdir  创建文件夹
 ### git clone git@github.com:Happy-Cat/git_command.git                 //克隆库
 ### git checkout -b test                                               //创建本地分支并切换
 ### git checkout                                                       //切换分支
