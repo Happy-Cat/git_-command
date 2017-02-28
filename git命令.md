@@ -3,7 +3,8 @@ git checkout -b test                                               //创建本�
 git checkout                                                       //切换分支
 git branch -a                                                      //查看远程分支
 git branch                                                         //查看本地分支
-git branch test                                                    //创建分支
+git branch test                                                    //创建本地分支
+git branch -d test                                                 //删除本地分支
 git commit -m '第一次'                                             //添加注释
 git push git@github.com:Happy-Cat/git_command.git                  //提交
 
