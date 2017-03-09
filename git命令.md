@@ -16,3 +16,5 @@
 ### git add -A //是上面两个功能的合集（git add --all的缩写
 ### git pull <远程主机名> <远程分支名>:<本地分支名>                      //pull
 ### git log                                                            //查看 提交历史
+### git stash                                                          //修改存储在本地
+### git stash pop                                                      //本地存储恢复
